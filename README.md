@@ -18,7 +18,7 @@ Any Os That Can Run Python3
 
 ## Usage:
 
-Run These Commands To Run Sl Bomber
+Run These Commands To Run x265LK-CLI
 
 ### > For Termux:
 

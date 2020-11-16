@@ -1,5 +1,5 @@
 <h1 align="center">x265LK-CLI</h1>
-<p align="center">Command Line Version For www.x265lk.com</p><br>
+<p align="center">Command Line Version For <a href="https://www.x265lk.com">x265lk</a></p><br>
 
 ## Note:
 - **Use The Script Only For Personal Use**

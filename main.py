@@ -248,7 +248,7 @@ else:
 			dwnlder(url, f'Downloaded/{fldr_nam}/{fldr_nam}{url[url.rfind("."):]}')
 			print(f'{bold}{ligre}Downloaded {fldr_nam}{url[url.rfind("."):]} To {getcwd()}/{fldr_nam}{url[url.rfind("."):]}')
 		else:
-			print(sel_ite_dlpag+f'{bold}{choice(fore)}\nCopy & Paste The URL In Your Favourite Download Manager To Download')
+			print(url+f'{bold}{choice(fore)}\nCopy & Paste The URL In Your Favourite Download Manager To Download')
 
 	else:
 		tmp = sel_ite_soup.find_all('span')

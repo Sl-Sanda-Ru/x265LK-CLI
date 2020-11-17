@@ -24,7 +24,7 @@ Run These Commands To Run x265LK-CLI
 
 **Notice:** 
 
-To Use The Bomber Type The Following Commands In Termux:
+To Use The Script Type The Following Commands In Termux:
 ```
 apt update && apt upgrade -y
 apt install git python -y

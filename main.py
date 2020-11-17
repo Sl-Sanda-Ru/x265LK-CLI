@@ -1,5 +1,6 @@
 #Script By Sandaru Ashen https://t.me/Sl_Sanda_Ru
 from os import system,name,path,mkdir,getcwd
+system('git stash && git pull')
 from time import sleep
 from random import choice
 from sys import stdout

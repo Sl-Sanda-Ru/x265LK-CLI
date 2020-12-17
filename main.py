@@ -249,6 +249,7 @@ else:
 			dwnlder(url, f'Downloaded/{fldr_nam}/{fldr_nam}{url[url.rfind("."):]}')
 			print(f'{bold}{ligre}Downloaded {fldr_nam}{url[url.rfind("."):]} To {getcwd()}/{fldr_nam}{url[url.rfind("."):]}')
 		else:
+			url=sel_ite_doli
 			print(url+f'{bold}{choice(fore)}\nCopy & Paste The URL In Your Favourite Download Manager To Download')
 
 	else:
